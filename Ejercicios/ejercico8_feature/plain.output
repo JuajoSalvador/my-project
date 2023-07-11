@@ -1,0 +1,10 @@
+Feature: Feature Requests
+
+  Scenario: suma GET
+    Given el usuario está registrado ... passed in 0.000s
+    When cuando introduce un nombre de usuario ... passed in 0.100s
+    And cuando introduce su password ... passed in 0.096s
+    And el usuario pulsa "Login" ... passed in 0.395s
+    Then el usuario accede al portal ... passed in 0.038s
+
+  Scenario: suma POST
